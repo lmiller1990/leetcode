@@ -9,6 +9,7 @@
     "typescript": "^4.6.4"
   },
   "scripts": {
-    "lint": "yarn prettier --write ."
+    "lint": "yarn prettier --write .",
+    "start": "yarn ts-node --esm"
   }
 }
